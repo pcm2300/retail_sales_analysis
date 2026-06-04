@@ -1,0 +1,173 @@
+"staff_id";"staff_name";"manager_name";"store_name";"city";"state";"order_year";"order_month";"yr_month";"total_orders";"gross_revenue";"net_revenue"
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;1;"2016-01";7;48525.78;43530.0651
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;2;"2016-02";6;19109.75;16841.7148
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;3;"2016-03";6;24353.81;21966.9377
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;4;"2016-04";5;11569.86;10495.8762
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;5;"2016-05";3;8400.92;7877.6346
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;6;"2016-06";3;9027.9;8302.609
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;7;"2016-07";2;13731.92;12154.5304
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;8;"2016-08";4;19765.88;18374.3408
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;9;"2016-09";5;25572.81;22925.6237
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;10;"2016-10";10;49757.57;43330.2192
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;11;"2016-11";3;19750.91;17900.4486
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;12;"2016-12";6;23952.79;21451.5286
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;1;"2017-01";5;22157.82;20030.1418
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;2;"2017-02";5;23567.78;21194.7657
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;3;"2017-03";6;33168.71;28845.8892
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;4;"2017-04";3;2940.93;2597.4579
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;5;"2017-05";8;32721.72;29832.4619
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;6;"2017-06";6;39809.77;34752.4795
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;7;"2017-07";6;37774.78;33018.3706
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;8;"2017-08";8;35747.68;32323.8295
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;9;"2017-09";5;19950.77;18143.7415
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;10;"2017-10";7;28329.68;25347.5903
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;11;"2017-11";4;27079.8;24668.8203
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;12;"2017-12";3;7405.85;6381.6679
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2018;1;"2018-01";4;51289.83;47056.5475
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2018;2;"2018-02";3;18251.86;16457.4369
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2018;3;"2018-03";7;39486.79;34714.8203
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2018;4;"2018-04";22;142160.01;130061.1566
+2;"Mireya Copeland";"Fabiola Jackson";"Santa Cruz Bikes";"Santa Cruz";"CA";2018;7;"2018-07";2;2059.97;1956.9715
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;1;"2016-01";7;31969.71;28230.2413
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;2;"2016-02";4;20254.83;18413.7365
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;3;"2016-03";4;27050.8;24850.6874
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;4;"2016-04";7;25826.76;23734.7639
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;5;"2016-05";5;22550.82;20217.6053
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;6;"2016-06";5;36506.73;33251.5593
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;7;"2016-07";2;9720.92;9104.3553
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;8;"2016-08";7;30236.74;26429.2595
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;9;"2016-09";10;46821.62;42234.0082
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;10;"2016-10";7;27887.76;25845.2788
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;11;"2016-11";8;43237.7;37870.9357
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2016;12;"2016-12";6;33360.78;30159.5496
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;1;"2017-01";8;37065.67;32907.5136
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;2;"2017-02";5;41852.73;37707.2468
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;3;"2017-03";6;29222.73;26615.0861
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;4;"2017-04";3;19459.84;18010.1169
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;5;"2017-05";6;24385.81;22265.2307
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;6;"2017-06";4;24007.79;21968.4314
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;7;"2017-07";4;27902.76;24055.5909
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;8;"2017-08";5;14207.75;12676.6586
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;9;"2017-09";5;20301.79;18034.8282
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;10;"2017-10";3;7697.9;6911.2711
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;11;"2017-11";5;33030.73;29639.0368
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2017;12;"2017-12";11;40291.55;34980.0139
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2018;1;"2018-01";6;30083.79;26925.6304
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2018;2;"2018-02";5;27687.78;23180.2064
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2018;3;"2018-03";5;20951.83;18300.8658
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2018;4;"2018-04";30;194926.72;174986.5221
+3;"Genna Serrano";"Mireya Copeland";"Santa Cruz Bikes";"Santa Cruz";"CA";2018;10;"2018-10";1;4219.92;3781.1284
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;1;"2016-01";17;79812.41;71208.4483
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;2;"2016-02";15;53677.42;47168.0309
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;3;"2016-03";17;58755.29;51833.0779
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;4;"2016-04";11;43963.66;39222.4259
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;5;"2016-05";22;91508.13;81604.9458
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;6;"2016-06";13;64327.54;58443.8871
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;7;"2016-07";25;103552.1;91842.3823
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;8;"2016-08";20;62826.37;55162.5532
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;9;"2016-09";20;80100.25;70808.0905
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;10;"2016-10";24;81571.18;73454.7434
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;11;"2016-11";12;39418.6;34429.6087
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;12;"2016-12";18;65806.46;58516.7858
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;1;"2017-01";14;93747.43;85189.5882
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;2;"2017-02";17;103242.34;92711.3804
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;3;"2017-03";27;159256.86;139738.0847
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;4;"2017-04";20;74789.13;67651.3492
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;5;"2017-05";20;109921.13;99063.3712
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;6;"2017-06";25;146033.92;132846.3739
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;7;"2017-07";21;97985.06;89276.2293
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;8;"2017-08";19;106959.12;97064.8913
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;9;"2017-09";19;140325.32;125250.4931
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;10;"2017-10";29;188670.69;169358.5562
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;11;"2017-11";30;178053.76;156296.1933
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;12;"2017-12";16;129111.32;115873.556
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2018;1;"2018-01";22;210752.95;186758.0886
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2018;2;"2018-02";10;62860.52;55835.6739
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2018;3;"2018-03";25;124644.12;110583.3248
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2018;4;"2018-04";24;181575.68;161670.5474
+6;"Marcelene Boyer";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2018;11;"2018-11";1;5639.97;5257.9717
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;1;"2016-01";17;68774.34;61685.8485
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;2;"2016-02";20;62215.31;55033.8762
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;3;"2016-03";22;65389.42;58505.7137
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;4;"2016-04";17;92343.35;81269.5583
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;5;"2016-05";15;77109.46;69074.7065
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;6;"2016-06";20;89101.26;80577.4995
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;7;"2016-07";18;83951.37;75478.4908
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;8;"2016-08";20;98855.24;87831.7356
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;9;"2016-09";22;103333.24;93560.5611
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;10;"2016-10";18;60535.45;55796.989
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;11;"2016-11";14;68467.5;61276.1932
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2016;12;"2016-12";21;85736.33;76812.7283
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;1;"2017-01";19;146450.02;132217.0608
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;2;"2017-02";19;118642.15;105103.3454
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;3;"2017-03";18;89085.23;79844.6031
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;4;"2017-04";24;105878.01;93988.5855
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;5;"2017-05";19;113906.11;102344.6247
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;6;"2017-06";16;131125.22;117645.429
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;7;"2017-07";19;90325.08;82027.0536
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;8;"2017-08";24;108155.22;96365.9668
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;9;"2017-09";19;87193.14;78706.2578
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;10;"2017-10";21;97498.16;87315.4813
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;11;"2017-11";14;57867.43;52858.8961
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2017;12;"2017-12";13;90244.35;80951.025
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2018;1;"2018-01";13;85749.43;75750.2893
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2018;2;"2018-02";14;92681.43;84109.3845
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2018;3;"2018-03";24;190195.83;172373.5867
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2018;4;"2018-04";36;306127.54;275594.3638
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2018;6;"2018-06";1;209.99;188.991
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2018;8;"2018-08";2;10256.91;8377.8147
+7;"Venita Daniel";"Jannette David";"Baldwin Bikes";"Baldwin";"NY";2018;9;"2018-09";1;9949.96;8963.9647
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2016;1;"2016-01";2;12101.91;10491.8209
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2016;2;"2016-02";2;7321.9;6523.8625
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2016;3;"2016-03";4;25368.85;22328.8388
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2016;4;"2016-04";2;12969.93;11926.4359
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2016;5;"2016-05";2;10167.95;9628.093
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2016;6;"2016-06";1;6710.97;6126.8727
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2016;8;"2016-08";6;13064.83;11847.6958
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2016;9;"2016-09";8;42577.72;38953.3645
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2016;10;"2016-10";2;5669.94;4960.9487
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2016;11;"2016-11";2;16152.93;14758.737
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2016;12;"2016-12";3;11019.88;9386.8937
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2017;1;"2017-01";1;3897.98;3658.181
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2017;2;"2017-02";3;30509.83;28818.5441
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2017;3;"2017-03";3;9564.84;8663.2836
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2017;4;"2017-04";4;43633.79;38402.6178
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2017;5;"2017-05";2;6849.96;6178.4637
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2017;6;"2017-06";6;22169.68;20197.6329
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2017;7;"2017-07";1;1139.97;1060.1721
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2017;8;"2017-08";6;32081.68;28772.2567
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2017;9;"2017-09";4;49073.75;41793.3991
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2017;10;"2017-10";1;4611.92;4327.0254
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2018;1;"2018-01";4;37985.79;35316.6087
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2018;2;"2018-02";2;15059.91;14231.4156
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2018;3;"2018-03";7;31422.63;28018.3959
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2018;4;"2018-04";6;40037.79;35544.8137
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2018;7;"2018-07";2;10889.92;9380.9287
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2018;11;"2018-11";1;6638.96;6104.0354
+8;"Kali Vargas";"Fabiola Jackson";"Rowlett Bikes";"Rowlett";"TX";2018;12;"2018-12";1;7999.96;6516.9667
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2016;2;"2016-02";2;13188.89;12131.1019
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2016;3;"2016-03";2;1238.97;1115.073
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2016;4;"2016-04";1;549.99;494.991
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2016;5;"2016-05";4;18963.85;16867.0239
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2016;6;"2016-06";3;25445.89;23859.6969
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2016;7;"2016-07";3;11897.9;10977.0501
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2016;8;"2016-08";6;28381.77;26011.7918
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2016;9;"2016-09";2;4876.97;4609.9617
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2016;10;"2016-10";3;9629.89;8689.9014
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2016;11;"2016-11";4;18287.83;16093.4892
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2016;12;"2016-12";1;3818.96;3502.4932
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2017;1;"2017-01";3;13635.85;11613.9986
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2017;2;"2017-02";8;30925.64;27388.4646
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2017;3;"2017-03";7;27878.76;25204.9551
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2017;4;"2017-04";3;7403.87;6640.7858
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2017;5;"2017-05";2;9969.93;8549.0857
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2017;6;"2017-06";6;56745.69;51455.3068
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2017;7;"2017-07";1;599.98;557.9814
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2017;8;"2017-08";3;25401.87;23349.8525
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2017;9;"2017-09";1;12543.91;11476.5364
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2017;10;"2017-10";4;18507.83;17068.3847
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2017;11;"2017-11";2;19849.95;18114.9554
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2017;12;"2017-12";4;23969.8;21319.7221
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2018;1;"2018-01";3;10439.93;9622.9348
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2018;2;"2018-02";1;7399.94;6843.9442
+9;"Layla Terrell";"Kali Vargas";"Rowlett Bikes";"Rowlett";"TX";2018;4;"2018-04";7;44351.73;40064.4568
