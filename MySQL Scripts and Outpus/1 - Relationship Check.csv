@@ -1,0 +1,12 @@
+relationship,orphaned_rows
+"products → brands",0
+"products → categories",0
+"orders → customers",0
+"orders → stores",0
+"orders → staffs",0
+"order_items → orders",0
+"order_items → products",0
+"stocks → stores",0
+"stocks → products",0
+"staffs → stores",0
+"staffs → staffs (manager)",0
